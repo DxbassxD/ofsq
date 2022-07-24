@@ -1,0 +1,18 @@
+.virus-dialog {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 60px;
+  background-color: transparent;
+  border: none;
+  height: 80vh;
+  width: 50vw;
+  padding: 0;
+}
+
+.virus-dialog__pepe {
+  max-width: 50vw;
+}
