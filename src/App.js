@@ -5,8 +5,8 @@ import { YoutubeEmbed } from "./youtube-embed";
 function App() {
   return (
     <div className="app">
-      <YoutubeEmbed embedId="7a72D3TCIxY" />
       <VirusDialog />
+      <YoutubeEmbed embedId="7a72D3TCIxY" />
     </div>
   );
 }

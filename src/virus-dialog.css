@@ -6,11 +6,11 @@
   align-items: center;
   color: white;
   font-size: 60px;
-  background-color: transparent;
-  border: none;
   height: 80vh;
   width: 50vw;
-  padding: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
 }
 
 .virus-dialog__pepe {
